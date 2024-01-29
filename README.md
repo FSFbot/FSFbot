@@ -29,11 +29,11 @@
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=3CB371)&nbsp;
 
 ### Gráfico de Contribuições:
-![Contribuições do GitHub](https://ghchart.rshah.org/3CB371/FSFbot)
+<img src="https://activity-graph.herokuapp.com/graph?username=FSFbot&bg_color=0d1117&color=3CB371&line=3CB371&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Contribuições" />
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/FSFbot/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FSFbot}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
