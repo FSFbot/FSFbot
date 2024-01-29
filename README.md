@@ -29,7 +29,7 @@
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=3CB371)&nbsp;
 
 ### Gráfico de Contribuições:
-<img src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FSFbot&bg_color=1f1e1e&color=3e7e52&line=7ae1a1&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) />
+src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FSFbot&bg_color=1f1e1e&color=3e7e52&line=7ae1a1&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
