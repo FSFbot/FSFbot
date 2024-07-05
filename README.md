@@ -8,25 +8,31 @@
 </div>
 
 ### Principais Competências:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3CB371)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=3CB371)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=3CB371)&nbsp;
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&color=3CB371)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=3CB371)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=3CB371)&nbsp;
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=3CB371)&nbsp;
 
 ### Ferramentas de Desenvolvimento e Infraestrutura:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=3CB371)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white&color=3CB371)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&color=3CB371)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&color=3CB371)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=3CB371)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&color=3CB371)&nbsp;
 
-### Ferramentas de Análise de Dados:
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=3CB371)&nbsp;
-![Google Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white&color=3CB371)&nbsp;
+### Frontend:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=3CB371)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=3CB371)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&color=3CB371)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=3CB371)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&color=3CB371)&nbsp;
+
 
 ### Estudando no Momento:
-![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=Data-Science&logoColor=white&color=3CB371)&nbsp;
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=Machine-Learning&logoColor=white&color=3CB371)&nbsp;
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=3CB371)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=3CB371)&nbsp;
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=3CB371)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&color=3CB371)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&color=3CB371)&nbsp;
 
 ### Gráfico de Contribuições:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FSFbot&bg_color=1f1e1e&color=3e7e52&line=7ae1a1&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
