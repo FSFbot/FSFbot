@@ -50,8 +50,12 @@ Estou em constante evolução técnica, direcionando minha carreira para **Engen
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FSFbot&bg_color=1f1e1e&color=3e7e52&line=7ae1a1&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FSFbot}/count.svg" /></p> 
-<br></div>
+  <br>
+  <p align="center"><b>Contador de Visitantes</b></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=FSFbot&label=Profile%20Views&color=3CB371&style=flat" alt="FSFbot" />
+  </p> 
+  <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
