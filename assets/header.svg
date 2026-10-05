@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img"><title>Felipe Freitas — Análise e Engenharia de Dados</title>
+<defs><linearGradient id="accent"><stop stop-color="#cba6f7"/><stop offset="1" stop-color="#89b4fa"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#313244" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="#1e1e2e"/><rect width="1200" height="360" rx="24" fill="url(#grid)" opacity=".45"/>
+<rect x="48" y="48" width="230" height="30" rx="15" fill="#313244"/><circle cx="66" cy="63" r="4" fill="#a6e3a1"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="81" y="68" font-size="12" letter-spacing="2" fill="#cdd6f4">PORTFÓLIO DE DADOS</text>
+<text x="48" y="153" font-size="62" font-weight="700" fill="#cdd6f4">Felipe Freitas</text><text x="50" y="197" font-size="27" fill="#cba6f7">Análise &amp; Engenharia de Dados</text><text x="50" y="239" font-size="19" fill="#bac2de">Entender o problema. Preparar os dados. Explicar o resultado.</text>
+<text x="50" y="311" font-size="13" letter-spacing="2" fill="#a6adc8">SQL · PYTHON · POWER BI · ETL</text></g>
+<g transform="translate(870 70)"><rect width="270" height="220" rx="18" fill="#181825" stroke="#45475a"/><circle cx="20" cy="20" r="4" fill="#f38ba8"/><circle cx="34" cy="20" r="4" fill="#f9e2af"/><circle cx="48" cy="20" r="4" fill="#a6e3a1"/><path d="M25 182 H247" stroke="#45475a"/><rect x="35" y="129" width="28" height="52" rx="5" fill="#94e2d5"/><rect x="79" y="106" width="28" height="75" rx="5" fill="#89b4fa"/><rect x="123" y="85" width="28" height="96" rx="5" fill="#b4befe"/><rect x="167" y="62" width="28" height="119" rx="5" fill="#cba6f7"/><rect x="211" y="47" width="28" height="134" rx="5" fill="#f5c2e7"/></g>
+<rect x="48" y="341" width="1104" height="3" rx="1.5" fill="url(#accent)"/></svg>
